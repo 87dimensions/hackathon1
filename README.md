@@ -13,3 +13,6 @@ git rebase
 
 -Push
 git push 
+
+git push origin master 
+
